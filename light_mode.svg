@@ -89,7 +89,7 @@ text, tspan {white-space: pre;}
 <text x="460" y="30" fill="#24292f">
 <tspan x="460" y="30">ayush@kaushik</tspan> -—————————————————————————————————————————————————————-—-
 <tspan x="460" y="50" class="cc">. </tspan><tspan class="key">OS</tspan>:<tspan class="cc"> ........................................... </tspan><tspan class="value">Windows 11, Linux</tspan>
-<tspan x="460" y="70" class="cc">. </tspan><tspan class="key">Uptime</tspan>:<tspan class="cc"> ............................. </tspan><tspan class="value">21 years, 6 months, 23 days</tspan>
+<tspan x="460" y="70" class="cc">. </tspan><tspan class="key">Focus</tspan>:<tspan class="cc"> .............................. </tspan><tspan class="value">AI, Web Dev &amp; Security</tspan>
 <tspan x="460" y="90" class="cc">. </tspan><tspan class="key">Host</tspan>:<tspan class="cc"> ............................ </tspan><tspan class="value">Lovely Professional University</tspan>
 <tspan x="460" y="110" class="cc">. </tspan><tspan class="key">Role</tspan>:<tspan class="cc"> .......................... </tspan><tspan class="value">AI/ML Developer &amp; Sec Enthusiast</tspan>
 <tspan x="460" y="130" class="cc">. </tspan><tspan class="key">IDE</tspan>:<tspan class="cc"> ................................... </tspan><tspan class="value">VSCode, Jupyter, PyCharm</tspan>
