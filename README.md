@@ -34,5 +34,28 @@ I’m Ayush Kaushik, a student, entrepreneur, and aspiring AI/ML engineer passio
 **Frameworks & Tools:**<br/>
 <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi" alt="FastAPI" /> <img src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" /> <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" /> <img src="https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white" alt="Arduino" /> <img src="https://img.shields.io/badge/cuda-000000.svg?style=for-the-badge&logo=nVIDIA&logoColor=green" alt="CUDA" />
 
+### ♟️ Interactive Chess Game
+It's your turn to play! Move a <!-- BEGIN TURN -->?<!-- END TURN --> piece.
+
+<!-- BEGIN CHESS BOARD -->
+(Here goes the chess board)
+<!-- END CHESS BOARD -->
+
+<details>
+  <summary>Make a Move (Click Here!)</summary>
+<!-- BEGIN MOVES LIST -->
+(Here goes the list of legal moves)
+<!-- END MOVES LIST -->
+</details>
+
+<details>
+  <summary>Last 5 moves</summary>
+<!-- BEGIN LAST MOVES -->
+(Here goes the list of the last 5 moves)
+<!-- END LAST MOVES -->
+</details>
+
+---
+
 ### 🔗 Connect with Me
 <a href="https://www.linkedin.com/in/ayush-kaushik10604"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn" /></a> <a href="mailto:sunny14kaushik7@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge" alt="Email" /></a>
