@@ -89,13 +89,13 @@ def generate_moves_list(board):
     if board.is_check():
         markdown += "**CHECK!** Choose your move wisely!\n"
 
-    markdown += "|  FROM  | TO (Just click a link!) |\n"
+    markdown += "\n|  FROM  | TO (Just click a link!) |\n"
     markdown += "| :----: | :---------------------- |\n"
 
     for source,dest in sorted(moves_dict.items()):
         markdown += "| **" + source + "** | " + create_issue_link(source, dest) + " |\n"
 
-    return markdown
+    return markdown + "\n"
 
 def board_to_markdown(board):
     board_list = [[item for item in line.split(' ')] for line in str(board).split('\n')]
@@ -120,6 +120,7 @@ def board_to_markdown(board):
     }
 
     # Write header in Markdown format
+    markdown += "\n"
     if board.turn == chess.BLACK:
         markdown += "|   | H | G | F | E | D | C | B | A |   |\n"
     else:
@@ -149,4 +150,4 @@ def board_to_markdown(board):
     else:
         markdown += "|   | **A** | **B** | **C** | **D** | **E** | **F** | **G** | **H** |   |\n"
 
-    return markdown
+    return markdown + "\n"
