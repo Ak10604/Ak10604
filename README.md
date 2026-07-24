@@ -4,6 +4,16 @@
   <img alt="Ayush Kaushik Stats" src="dark_mode.svg">
 </picture>
 
+<br/>
+
+<a href="https://git.io/typing-svg">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=58A6FF&center=false&vCenter=true&width=600&lines=AI%2FML+Developer;Security+Enthusiast;Software+Engineer;Building+intelligent+systems...">
+    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=0969DA&center=false&vCenter=true&width=600&lines=AI%2FML+Developer;Security+Enthusiast;Software+Engineer;Building+intelligent+systems...">
+    <img alt="Typing SVG" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=58A6FF&center=false&vCenter=true&width=600&lines=AI%2FML+Developer;Security+Enthusiast;Software+Engineer;Building+intelligent+systems...">
+  </picture>
+</a>
+
 ### 🌟 About Me
 I’m Ayush Kaushik, a student, entrepreneur, and aspiring AI/ML engineer passionate about building impactful and scalable software solutions. Over time, I’ve worked on multiple projects across AI, web development, and cybersecurity, constantly experimenting and learning through real-world problem solving.
 
